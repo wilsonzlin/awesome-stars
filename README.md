@@ -43,7 +43,7 @@
 - [ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs
 - [fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [cloudflare-workers-wasm-demo](https://github.com/cloudflare/cloudflare-workers-wasm-demo) - 
-- [edgesearch](https://github.com/wilsonzlin/edgesearch) - Fast serverless full-text search at the edge using only Cloudflare Workers and KV, with WebAssembly and Roaring Bitmaps
+- [edgesearch](https://github.com/wilsonzlin/edgesearch) - Serverless full-text search with Cloudflare Workers, WebAssembly, and Roaring Bitmaps
 - [RedisBloom](https://github.com/RedisBloom/RedisBloom) - Probabilistic Datatypes Module for Redis
 - [nicehash](https://github.com/wilsonzlin/nicehash) - Easy-to-use data structures in C
 - [raptorjit](https://github.com/raptorjit/raptorjit) - RaptorJIT: A dynamic language for system programming (LuaJIT fork)
@@ -188,7 +188,7 @@
 - [aho-corasick](https://github.com/BurntSushi/aho-corasick) - A fast implementation of Aho-Corasick in Rust.
 - [delta](https://github.com/dandavison/delta) - A syntax-highlighter for git and diff output
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [hyperbuild](https://github.com/wilsonzlin/hyperbuild) - Fast one-pass in-place HTML minifier written in Rust with context-aware whitespace handling, available for Node.js, Python, Java, and Ruby
+- [hyperbuild](https://github.com/wilsonzlin/hyperbuild) - One-pass in-place HTML minifier written in Rust, available for Node.js, Python, Java, and Ruby
 
 ## Shell 
 
@@ -207,11 +207,9 @@
 - [zucchini](https://github.com/wilsonzlin/zucchini) - Data-portable static web music library player and manager
 - [rmd-html](https://github.com/wilsonzlin/rmd-html) - Render HTML from RMD
 - [rmd-parse](https://github.com/wilsonzlin/rmd-parse) - Parser and specification for RMD, a stricter and extended version of Markdown
-- [ltsu](https://github.com/wilsonzlin/ltsu) - Resumable concurrent large file (≤40 TB) uploads to AWS S3 Glacier and Backblaze B2 with low memory usage
+- [ltsu](https://github.com/wilsonzlin/ltsu) - Resumable concurrent large file (≤40 TB) uploads to AWS S3 Glacier and Backblaze B2
 - [shasync](https://github.com/wilsonzlin/shasync) - Sync files with a storage provider and CDN
 - [referenza](https://github.com/wilsonzlin/referenza) - Create static HTML project documentation using Markdown
-- [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 
 ## License
