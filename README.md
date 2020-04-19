@@ -20,7 +20,6 @@
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Lua](#lua)
-  - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
   - [Perl](#perl)
@@ -57,6 +56,7 @@
 - [zxcvbn-c](https://github.com/tsyrogit/zxcvbn-c) - C/C++ version of the zxcvbn password strength estimator
 - [lua-bcrypt](https://github.com/mikejsavage/lua-bcrypt) - A bcrypt library for Lua
 - [lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers
+- [luautf8](https://github.com/starwing/luautf8) - a utf-8 support module for Lua and LuaJIT.
 
 ## C# # 
 
@@ -148,10 +148,6 @@
 - [magick](https://github.com/leafo/magick) - Lua bindings to ImageMagick for LuaJIT using FFI
 - [lua-resty-http](https://github.com/ledgetech/lua-resty-http) - Lua HTTP client cosocket driver for OpenResty / ngx_lua.
 - [luarocks](https://github.com/luarocks/luarocks) - LuaRocks is the package manager for the Lua programming language.
-
-## Objective-C 
-
-- [luautf8](https://github.com/starwing/luautf8) - a utf-8 support module for Lua and LuaJIT.
 
 ## Others 
 
