@@ -151,6 +151,7 @@
 
 ## Others 
 
+- [read-react-source-code](https://github.com/numbbbbb/read-react-source-code) - Record what I learn after reading React source code
 - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [proposal-binary-ast](https://github.com/tc39/proposal-binary-ast) - Binary AST proposal for ECMAScript
