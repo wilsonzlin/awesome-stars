@@ -127,7 +127,7 @@
 - [tiny-worker](https://github.com/avoidwork/tiny-worker) - Tiny WebWorker for the Server
 - [immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
-- [UglifyJS2](https://github.com/mishoo/UglifyJS2) - JavaScript parser / mangler / compressor / beautifier toolkit
+- [UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
 - [parse5](https://github.com/inikulin/parse5) - HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.
 - [svgo](https://github.com/svg/svgo) - :tiger: Node.js tool for optimizing SVG files
 - [five](https://github.com/jackdclark/five) - Gives you five
