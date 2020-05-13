@@ -74,7 +74,7 @@
 - [node-webworker-threads](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads
 - [emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-Web Compiler
 - [pdqsort](https://github.com/orlp/pdqsort) - Pattern-defeating quicksort.
-- [uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web I/O for the most demanding of applications
+- [uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 
 ## CSS 
 
