@@ -198,6 +198,7 @@
 
 ## TypeScript 
 
+- [eucalyptus](https://github.com/wilsonzlin/eucalyptus) - Offline encrypted personal resource trackers
 - [dbflock](https://github.com/wilsonzlin/dbflock) - Migrate, change, apply, and manage database schemas
 - [sacli](https://github.com/wilsonzlin/sacli) - Easy declarative CLI builder for Node.js applications
 - [electron-react-typescript](https://github.com/Robinfr/electron-react-typescript) - Electron boilerplate with React, Redux, and TypeScript
