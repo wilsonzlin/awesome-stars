@@ -109,7 +109,7 @@
 
 - [graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [nanoscript](https://github.com/wilsonzlin/nanoscript) - Interpreted language with easily { understood, customisable } lexer, parser, and interpreter, written fully in Java
-- [javaparser](https://github.com/javaparser/javaparser) - Java 1-13 Parser and Abstract Syntax Tree for Java –
+- [javaparser](https://github.com/javaparser/javaparser) - Java 1-14 Parser and Abstract Syntax Tree for Java, including preview features to Java 13 –
 
 ## JavaScript 
 
