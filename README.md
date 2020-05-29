@@ -122,7 +122,6 @@
 - [loopback](https://github.com/strongloop/loopback) - LoopBack makes it easy to build modern applications that require complex integrations.
 - [command-line-args](https://github.com/75lb/command-line-args) - A mature, feature-complete library to parse command-line options.
 - [data](https://github.com/mdn/data) - This repository contains general data for Web technologies
-- [ooml](https://github.com/wilsonzlin/ooml) - Polyglot web UI framework
 - [html-minifier](https://github.com/kangax/html-minifier) - Javascript-based HTML compressor/minifier (with Node.js support)
 - [tiny-worker](https://github.com/avoidwork/tiny-worker) - Tiny WebWorker for the Server
 - [immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
@@ -209,6 +208,7 @@
 - [ltsu](https://github.com/wilsonzlin/ltsu) - Resumable concurrent large file (≤40 TB) uploads to AWS S3 Glacier and Backblaze B2
 - [shasync](https://github.com/wilsonzlin/shasync) - Sync files with a storage provider and CDN
 - [referenza](https://github.com/wilsonzlin/referenza) - Create static HTML project documentation using Markdown
+- [ooml](https://github.com/wilsonzlin/ooml) - Transparent object-orientated web UI framework
 
 
 ## License
