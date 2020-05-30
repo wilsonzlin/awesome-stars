@@ -34,6 +34,7 @@
 
 ## C 
 
+- [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
 - [CRoaring](https://github.com/RoaringBitmap/CRoaring) - Roaring bitmaps in C (and C++)
 - [libbloom](https://github.com/jvirkki/libbloom) - A simple and small bloom filter implementation in plain C.
 - [cloudabi](https://github.com/NuxiNL/cloudabi) - Definitions for the CloudABI data types and system calls
@@ -108,7 +109,7 @@
 ## Java 
 
 - [graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
-- [nanoscript](https://github.com/wilsonzlin/nanoscript) - Interpreted language with easily { understood, customisable } lexer, parser, and interpreter, written fully in Java
+- [nanoscript](https://github.com/wilsonzlin/nanoscript) - Language with simple parser, and interpreter, written fully in Java
 - [javaparser](https://github.com/javaparser/javaparser) - Java 1-14 Parser and Abstract Syntax Tree for Java, including preview features to Java 13 –
 
 ## JavaScript 
