@@ -204,8 +204,7 @@
 - [electron-react-typescript](https://github.com/Robinfr/electron-react-typescript) - Electron boilerplate with React, Redux, and TypeScript
 - [umbrella](https://github.com/thi-ng/umbrella) - ⛱ Mono-repository of ~125 TypeScript/ES6 projects for functional, data driven development
 - [zucchini](https://github.com/wilsonzlin/zucchini) - Data-portable static web music library player and manager
-- [rmd-html](https://github.com/wilsonzlin/rmd-html) - Render HTML from RMD
-- [rmd-parse](https://github.com/wilsonzlin/rmd-parse) - Parser and specification for RMD, a stricter and extended version of Markdown
+- [rmd](https://github.com/wilsonzlin/rmd) - Strict and extensible Markdown
 - [ltsu](https://github.com/wilsonzlin/ltsu) - Resumable concurrent large file (≤40 TB) uploads to AWS S3 Glacier and Backblaze B2
 - [shasync](https://github.com/wilsonzlin/shasync) - Sync files with a storage provider and CDN
 - [referenza](https://github.com/wilsonzlin/referenza) - Create static HTML project documentation using Markdown
