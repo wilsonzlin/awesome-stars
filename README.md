@@ -43,7 +43,6 @@
 - [ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs
 - [fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [cloudflare-workers-wasm-demo](https://github.com/cloudflare/cloudflare-workers-wasm-demo) - 
-- [edgesearch](https://github.com/wilsonzlin/edgesearch) - Serverless full-text search with Cloudflare Workers, WebAssembly, and Roaring Bitmaps
 - [RedisBloom](https://github.com/RedisBloom/RedisBloom) - Probabilistic Datatypes Module for Redis
 - [nicehash](https://github.com/wilsonzlin/nicehash) - Easy-to-use data structures in C
 - [raptorjit](https://github.com/raptorjit/raptorjit) - RaptorJIT: A dynamic language for system programming (LuaJIT fork)
@@ -186,6 +185,7 @@
 - [aho-corasick](https://github.com/BurntSushi/aho-corasick) - A fast implementation of Aho-Corasick in Rust.
 - [delta](https://github.com/dandavison/delta) - A syntax-highlighter for git and diff output
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+- [edgesearch](https://github.com/wilsonzlin/edgesearch) - Serverless full-text search with Cloudflare Workers, WebAssembly, and Roaring Bitmaps
 - [hyperbuild](https://github.com/wilsonzlin/hyperbuild) - One-pass in-place HTML minifier written in Rust, available for Node.js, Python, Java, and Ruby
 
 ## Shell 
