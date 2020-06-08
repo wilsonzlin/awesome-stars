@@ -202,7 +202,7 @@
 - [dbflock](https://github.com/wilsonzlin/dbflock) - Migrate, change, apply, and manage database schemas
 - [sacli](https://github.com/wilsonzlin/sacli) - Easy declarative CLI builder for Node.js applications
 - [electron-react-typescript](https://github.com/Robinfr/electron-react-typescript) - Electron boilerplate with React, Redux, and TypeScript
-- [umbrella](https://github.com/thi-ng/umbrella) - ⛱ Mono-repository of ~125 TypeScript/ES6 projects for functional, data driven development
+- [umbrella](https://github.com/thi-ng/umbrella) - ⛱ Mono-repository of 125+ TypeScript/ES6 projects for functional, data driven development
 - [zucchini](https://github.com/wilsonzlin/zucchini) - Data-portable static web music library player and manager
 - [rmd](https://github.com/wilsonzlin/rmd) - Strict and extensible Markdown
 - [ltsu](https://github.com/wilsonzlin/ltsu) - Resumable concurrent large file (≤40 TB) uploads to AWS S3 Glacier and Backblaze B2
