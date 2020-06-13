@@ -190,7 +190,6 @@
 - [aho-corasick](https://github.com/BurntSushi/aho-corasick) - A fast implementation of Aho-Corasick in Rust.
 - [delta](https://github.com/dandavison/delta) - A syntax-highlighter for git and diff output
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [edgesearch](https://github.com/wilsonzlin/edgesearch) - Serverless full-text search with Cloudflare Workers, WebAssembly, and Roaring Bitmaps
 - [hyperbuild](https://github.com/wilsonzlin/hyperbuild) - One-pass in-place HTML minifier written in Rust, available for Node.js, Python, Java, and Ruby
 
 ## Shell 
@@ -210,6 +209,7 @@
 - [umbrella](https://github.com/thi-ng/umbrella) - ⛱ Mono-repository of 125+ TypeScript/ES6 projects for functional, data driven development
 - [zucchini](https://github.com/wilsonzlin/zucchini) - Data-portable static web music library player and manager
 - [rmd](https://github.com/wilsonzlin/rmd) - Strict and extensible Markdown
+- [edgesearch](https://github.com/wilsonzlin/edgesearch) - Serverless full-text search with Cloudflare Workers, WebAssembly, and Roaring Bitmaps
 - [ltsu](https://github.com/wilsonzlin/ltsu) - Resumable concurrent large file (≤40 TB) uploads to AWS S3 Glacier and Backblaze B2
 - [shasync](https://github.com/wilsonzlin/shasync) - Sync files with a storage provider and CDN
 - [referenza](https://github.com/wilsonzlin/referenza) - Create static HTML project documentation using Markdown
