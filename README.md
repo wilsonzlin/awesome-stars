@@ -183,6 +183,7 @@
 
 ## Rust 
 
+- [gitui](https://github.com/extrawurst/gitui) - blazing fast terminal-ui for git written in rust
 - [regex2fat](https://github.com/8051Enthusiast/regex2fat) - Turn your favourite regex into FAT32
 - [jni-rs](https://github.com/jni-rs/jni-rs) - Rust bindings to the JNI
 - [fastrie](https://github.com/wilsonzlin/fastrie) - Sequentialised memory-packed associative tries, buildable at compile time, useful for longest prefix matching
