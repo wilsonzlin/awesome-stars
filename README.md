@@ -186,7 +186,7 @@
 - [gitui](https://github.com/extrawurst/gitui) - blazing fast terminal-ui for git written in rust
 - [regex2fat](https://github.com/8051Enthusiast/regex2fat) - Turn your favourite regex into FAT32
 - [jni-rs](https://github.com/jni-rs/jni-rs) - Rust bindings to the JNI
-- [fastrie](https://github.com/wilsonzlin/fastrie) - Sequentialised memory-packed associative tries, buildable at compile time, useful for longest prefix matching
+- [fastrie](https://github.com/wilsonzlin/fastrie) - Compile time static memory-packed associative tries
 - [actix-web](https://github.com/actix/actix-web) - Actix web is a small, pragmatic, and extremely fast rust web framework.
 - [aho-corasick](https://github.com/BurntSushi/aho-corasick) - A fast implementation of Aho-Corasick in Rust.
 - [delta](https://github.com/dandavison/delta) - A syntax-highlighter for git and diff output
