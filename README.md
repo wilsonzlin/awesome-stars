@@ -175,6 +175,7 @@
 
 ## Python 
 
+- [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [peru](https://github.com/buildinspace/peru) - a package manager for including other people's code in your projects
 - [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [dotfiles](https://github.com/khllkcm/dotfiles) - My dotfiles
@@ -196,7 +197,6 @@
 ## Shell 
 
 - [skyhole](https://github.com/wilsonzlin/skyhole) - Script to automatically set up a secure personal DNS-over-TLS server with Pi-hole
-- [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [zsh-fzy](https://github.com/aperezdc/zsh-fzy) - Use the fzy fuzzy-finder in Zsh
 - [setup](https://github.com/wilsonzlin/setup) - Personal scripts for quickly setting up a new system
 - [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
