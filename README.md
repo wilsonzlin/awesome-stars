@@ -190,7 +190,7 @@
 - [fastrie](https://github.com/wilsonzlin/fastrie) - Compile time static memory-packed associative tries
 - [actix-web](https://github.com/actix/actix-web) - Actix web is a small, pragmatic, and extremely fast rust web framework.
 - [aho-corasick](https://github.com/BurntSushi/aho-corasick) - A fast implementation of Aho-Corasick in Rust.
-- [delta](https://github.com/dandavison/delta) - A syntax-highlighter for git and diff output
+- [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [hyperbuild](https://github.com/wilsonzlin/hyperbuild) - One-pass in-place HTML minifier written in Rust, available for Node.js, Python, Java, and Ruby
 
