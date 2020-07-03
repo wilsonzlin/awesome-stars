@@ -184,6 +184,8 @@
 
 ## Rust 
 
+- [fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers.
+- [rust-memchr](https://github.com/BurntSushi/rust-memchr) - An implementation of memchr in Rust, with optional libc bindings.
 - [gitui](https://github.com/extrawurst/gitui) - blazing fast terminal-ui for git written in rust
 - [regex2fat](https://github.com/8051Enthusiast/regex2fat) - Turn your favourite regex into FAT32
 - [jni-rs](https://github.com/jni-rs/jni-rs) - Rust bindings to the JNI
