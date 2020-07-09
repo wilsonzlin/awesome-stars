@@ -65,6 +65,7 @@
 
 ## C++ 
 
+- [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [hat-trie](https://github.com/Tessil/hat-trie) - C++ implementation of a fast and memory efficient HAT-trie
 - [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing
 - [capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
@@ -191,7 +192,7 @@
 - [regex2fat](https://github.com/8051Enthusiast/regex2fat) - Turn your favourite regex into FAT32
 - [jni-rs](https://github.com/jni-rs/jni-rs) - Rust bindings to the JNI
 - [fastrie](https://github.com/wilsonzlin/fastrie) - Compile time static memory-packed associative tries
-- [actix-web](https://github.com/actix/actix-web) - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [actix-web](https://github.com/actix/actix-web) - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [aho-corasick](https://github.com/BurntSushi/aho-corasick) - A fast implementation of Aho-Corasick in Rust.
 - [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -210,7 +211,7 @@
 - [dbflock](https://github.com/wilsonzlin/dbflock) - Migrate, change, apply, and manage database schemas
 - [sacli](https://github.com/wilsonzlin/sacli) - Easy declarative CLI builder for Node.js applications
 - [electron-react-typescript](https://github.com/Robinfr/electron-react-typescript) - Electron boilerplate with React, Redux, and TypeScript
-- [umbrella](https://github.com/thi-ng/umbrella) - ⛱ Broadly scoped ecosystem & mono-repository of ~130 TypeScript projects for functional, data driven development
+- [umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of ~135 TypeScript projects for functional, data driven development
 - [zucchini](https://github.com/wilsonzlin/zucchini) - Data-portable static web music library player and manager
 - [rmd](https://github.com/wilsonzlin/rmd) - Strict and extensible Markdown
 - [edgesearch](https://github.com/wilsonzlin/edgesearch) - Serverless full-text search with Cloudflare Workers, WebAssembly, and Roaring Bitmaps
