@@ -196,7 +196,7 @@
 - [aho-corasick](https://github.com/BurntSushi/aho-corasick) - A fast implementation of Aho-Corasick in Rust.
 - [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [hyperbuild](https://github.com/wilsonzlin/hyperbuild) - Fast allocation-less HTML + JS minifier with smart whitespace handling [Rust/Node.js/Python/Java/Ruby]
+- [minify-html](https://github.com/wilsonzlin/minify-html) - Uncompromisingly fast and smart HTML + JS minifier, available for Rust, Node.js, Python, Java, and Ruby
 
 ## Shell 
 
