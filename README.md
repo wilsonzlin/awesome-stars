@@ -12,6 +12,7 @@
   - [CSS](#css)
   - [CoffeeScript](#coffeescript)
   - [D](#d)
+  - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Go](#go)
   - [HTML](#html)
@@ -91,6 +92,10 @@
 ## D 
 
 - [onedrive](https://github.com/skilion/onedrive) - Free Client for OneDrive on Linux
+
+## Dart 
+
+- [go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples) - Calling Go Functions from Other Languages using C Shared Libraries
 
 ## Dockerfile 
 
@@ -196,7 +201,7 @@
 - [aho-corasick](https://github.com/BurntSushi/aho-corasick) - A fast implementation of Aho-Corasick in Rust.
 - [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [minify-html](https://github.com/wilsonzlin/minify-html) - Uncompromisingly fast and smart HTML + JS minifier, available for Rust, Node.js, Python, Java, and Ruby
+- [minify-html](https://github.com/wilsonzlin/minify-html) - Fast and smart HTML + JS minifier, available for Rust, Node.js, Python, Java, and Ruby
 
 ## Shell 
 
