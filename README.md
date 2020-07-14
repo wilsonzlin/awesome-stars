@@ -36,6 +36,7 @@
 
 ## C 
 
+- [MemoryModule](https://github.com/fancycode/MemoryModule) - Library to load a DLL from memory.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
 - [CRoaring](https://github.com/RoaringBitmap/CRoaring) - Roaring bitmaps in C (and C++)
 - [libbloom](https://github.com/jvirkki/libbloom) - A simple and small bloom filter implementation in plain C.
@@ -191,6 +192,7 @@
 
 ## Rust 
 
+- [owning-ref-rs](https://github.com/Kimundi/owning-ref-rs) - A library for creating references that carry their owner with them.
 - [fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers.
 - [rust-memchr](https://github.com/BurntSushi/rust-memchr) - An implementation of memchr in Rust, with optional libc bindings.
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
