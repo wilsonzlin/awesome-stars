@@ -192,6 +192,7 @@
 
 ## Rust 
 
+- [crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [owning-ref-rs](https://github.com/Kimundi/owning-ref-rs) - A library for creating references that carry their owner with them.
 - [fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers.
 - [rust-memchr](https://github.com/BurntSushi/rust-memchr) - An implementation of memchr in Rust, with optional libc bindings.
