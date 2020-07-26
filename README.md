@@ -108,6 +108,7 @@
 
 ## HTML 
 
+- [blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 
 ## Haskell 
