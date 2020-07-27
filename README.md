@@ -124,7 +124,6 @@
 ## JavaScript 
 
 - [unminify](https://github.com/shapesecurity/unminify) - reverse many of the transformations applied by minifiers and naïve obfuscators
-- [cabinet](https://github.com/wilsonzlin/cabinet) - Zero-configuration video + photo server and app
 - [chrome-music-lab](https://github.com/googlecreativelab/chrome-music-lab) - A collection of experiments for exploring how music works, all built with the Web Audio API.
 - [heat](https://github.com/wilsonzlin/heat) - Automated benchmarks and performance insights into different application server stacks
 - [anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
@@ -193,6 +192,7 @@
 
 ## Rust 
 
+- [sliceslice-rs](https://github.com/marmeladema/sliceslice-rs) - A fast implementation of single-pattern substring search using SIMD acceleration.
 - [crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [owning-ref-rs](https://github.com/Kimundi/owning-ref-rs) - A library for creating references that carry their owner with them.
 - [fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers.
@@ -220,6 +220,7 @@
 - [eucalyptus](https://github.com/wilsonzlin/eucalyptus) - Offline encrypted personal resource trackers
 - [dbflock](https://github.com/wilsonzlin/dbflock) - Migrate, change, apply, and manage database schemas
 - [sacli](https://github.com/wilsonzlin/sacli) - Easy declarative CLI builder for Node.js applications
+- [cabinet](https://github.com/wilsonzlin/cabinet) - Zero-configuration video + photo server and app
 - [electron-react-typescript](https://github.com/Robinfr/electron-react-typescript) - Electron boilerplate with React, Redux, and TypeScript
 - [umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of ~135 TypeScript projects for functional, data driven development
 - [zucchini](https://github.com/wilsonzlin/zucchini) - Data-portable static web music library player and manager
