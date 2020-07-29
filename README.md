@@ -63,7 +63,7 @@
 
 ## C# # 
 
-- [ImageGlass](https://github.com/d2phap/ImageGlass) - 🌁 A lightweight, versatile image viewer
+- [ImageGlass](https://github.com/d2phap/ImageGlass) - ⛰ A lightweight, versatile image viewer
 
 ## C++ 
 
