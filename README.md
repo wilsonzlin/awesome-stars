@@ -109,7 +109,6 @@
 ## HTML 
 
 - [blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
-- [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 
 ## Haskell 
@@ -205,6 +204,7 @@
 - [fastrie](https://github.com/wilsonzlin/fastrie) - Compile time static memory-packed associative tries
 - [actix-web](https://github.com/actix/actix-web) - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [aho-corasick](https://github.com/BurntSushi/aho-corasick) - A fast implementation of Aho-Corasick in Rust.
+- [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [minify-html](https://github.com/wilsonzlin/minify-html) - Fast and smart HTML + JS minifier, available for Rust, Node.js, Python, Java, and Ruby
 
