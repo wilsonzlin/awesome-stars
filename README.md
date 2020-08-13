@@ -192,6 +192,7 @@
 
 ## Rust 
 
+- [dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust.
 - [micro-mitten](https://github.com/doctorn/micro-mitten) - You might not need your garbage collector
 - [sliceslice-rs](https://github.com/marmeladema/sliceslice-rs) - A fast implementation of single-pattern substring search using SIMD acceleration.
 - [crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
