@@ -49,7 +49,7 @@
 - [RedisBloom](https://github.com/RedisBloom/RedisBloom) - Probabilistic Datatypes Module for Redis
 - [nicehash](https://github.com/wilsonzlin/nicehash) - Easy-to-use data structures in C
 - [raptorjit](https://github.com/raptorjit/raptorjit) - RaptorJIT: A dynamic language for system programming (LuaJIT fork)
-- [wren](https://github.com/wren-lang/wren) - The Wren Programming Language
+- [wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
 - [klib](https://github.com/attractivechaos/klib) - A standalone and lightweight C library
 - [spacefm](https://github.com/IgnorantGuru/spacefm) - SpaceFM File Manager
 - [redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
