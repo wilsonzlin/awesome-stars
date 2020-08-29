@@ -194,7 +194,6 @@
 
 - [dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust.
 - [micro-mitten](https://github.com/doctorn/micro-mitten) - You might not need your garbage collector
-- [sliceslice-rs](https://github.com/marmeladema/sliceslice-rs) - A fast implementation of single-pattern substring search using SIMD acceleration.
 - [crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [owning-ref-rs](https://github.com/Kimundi/owning-ref-rs) - A library for creating references that carry their owner with them.
 - [fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers.
