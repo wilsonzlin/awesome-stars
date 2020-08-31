@@ -77,7 +77,7 @@
 - [zxcvbn-luajit](https://github.com/wilsonzlin/zxcvbn-luajit) - LuaJIT C module for the C version of zxcvbn
 - [napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
 - [node-webworker-threads](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads
-- [emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-Web Compiler
+- [emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [pdqsort](https://github.com/orlp/pdqsort) - Pattern-defeating quicksort.
 - [uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 
