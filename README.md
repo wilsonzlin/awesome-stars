@@ -223,7 +223,7 @@
 - [sacli](https://github.com/wilsonzlin/sacli) - Easy declarative CLI builder for Node.js applications
 - [cabinet](https://github.com/wilsonzlin/cabinet) - Zero-configuration video + photo server and app
 - [electron-react-typescript](https://github.com/Robinfr/electron-react-typescript) - Electron boilerplate with React, Redux, and TypeScript
-- [umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of ~135 TypeScript projects for functional, data driven development
+- [umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of ~137 TypeScript projects for functional, data driven development
 - [zucchini](https://github.com/wilsonzlin/zucchini) - Data-portable static web music library player and manager
 - [rmd](https://github.com/wilsonzlin/rmd) - Strict and extensible Markdown
 - [edgesearch](https://github.com/wilsonzlin/edgesearch) - Serverless full-text search with Cloudflare Workers, WebAssembly, and Roaring Bitmaps
