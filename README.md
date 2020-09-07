@@ -47,7 +47,6 @@
 - [fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [cloudflare-workers-wasm-demo](https://github.com/cloudflare/cloudflare-workers-wasm-demo) - 
 - [RedisBloom](https://github.com/RedisBloom/RedisBloom) - Probabilistic Datatypes Module for Redis
-- [nicehash](https://github.com/wilsonzlin/nicehash) - Easy-to-use data structures in C
 - [raptorjit](https://github.com/raptorjit/raptorjit) - RaptorJIT: A dynamic language for system programming (LuaJIT fork)
 - [wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
 - [klib](https://github.com/attractivechaos/klib) - A standalone and lightweight C library
@@ -125,7 +124,6 @@
 
 - [unminify](https://github.com/shapesecurity/unminify) - reverse many of the transformations applied by minifiers and naïve obfuscators
 - [chrome-music-lab](https://github.com/googlecreativelab/chrome-music-lab) - A collection of experiments for exploring how music works, all built with the Web Audio API.
-- [heat](https://github.com/wilsonzlin/heat) - Automated benchmarks and performance insights into different application server stacks
 - [anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [loopback](https://github.com/strongloop/loopback) - LoopBack makes it easy to build modern applications that require complex integrations.
@@ -156,7 +154,6 @@
 
 ## Lua 
 
-- [http-load-testing-demo](https://github.com/wilsonzlin/http-load-testing-demo) - Demo code for http-load-testing
 - [luaqrcode](https://github.com/speedata/luaqrcode) - Pure Lua qrcode library
 - [magick](https://github.com/leafo/magick) - Lua bindings to ImageMagick for LuaJIT using FFI
 - [lua-resty-http](https://github.com/ledgetech/lua-resty-http) - Lua HTTP client cosocket driver for OpenResty / ngx_lua.
@@ -201,36 +198,21 @@
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [regex2fat](https://github.com/8051Enthusiast/regex2fat) - Turn your favourite regex into FAT32
 - [jni-rs](https://github.com/jni-rs/jni-rs) - Rust bindings to the JNI
-- [fastrie](https://github.com/wilsonzlin/fastrie) - Compile time static memory-packed associative tries
 - [actix-web](https://github.com/actix/actix-web) - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [aho-corasick](https://github.com/BurntSushi/aho-corasick) - A fast implementation of Aho-Corasick in Rust.
 - [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [minify-html](https://github.com/wilsonzlin/minify-html) - Fast and smart HTML + JS minifier, available for Rust, Node.js, Python, Java, and Ruby
 
 ## Shell 
 
-- [skyhole](https://github.com/wilsonzlin/skyhole) - Script to automatically set up a secure personal DNS-over-TLS server with Pi-hole
 - [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [zsh-fzy](https://github.com/aperezdc/zsh-fzy) - Use the fzy fuzzy-finder in Zsh
-- [setup](https://github.com/wilsonzlin/setup) - Personal scripts for quickly setting up a new system
 - [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 
 ## TypeScript 
 
-- [eucalyptus](https://github.com/wilsonzlin/eucalyptus) - Offline encrypted personal resource trackers
-- [dbflock](https://github.com/wilsonzlin/dbflock) - Migrate, change, apply, and manage database schemas
-- [sacli](https://github.com/wilsonzlin/sacli) - Easy declarative CLI builder for Node.js applications
-- [cabinet](https://github.com/wilsonzlin/cabinet) - Zero-configuration video + photo server and app
 - [electron-react-typescript](https://github.com/Robinfr/electron-react-typescript) - Electron boilerplate with React, Redux, and TypeScript
 - [umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of ~137 TypeScript projects for functional, data driven development
-- [zucchini](https://github.com/wilsonzlin/zucchini) - Data-portable static web music library player and manager
-- [rmd](https://github.com/wilsonzlin/rmd) - Strict and extensible Markdown
-- [edgesearch](https://github.com/wilsonzlin/edgesearch) - Serverless full-text search with Cloudflare Workers, WebAssembly, and Roaring Bitmaps
-- [ltsu](https://github.com/wilsonzlin/ltsu) - Resumable concurrent large file (≤40 TB) uploads to AWS S3 Glacier and Backblaze B2
-- [shasync](https://github.com/wilsonzlin/shasync) - Sync files with a storage provider and CDN
-- [referenza](https://github.com/wilsonzlin/referenza) - Create static HTML project documentation using Markdown
-- [ooml](https://github.com/wilsonzlin/ooml) - Transparent object-orientated web UI framework
 
 
 ## License
