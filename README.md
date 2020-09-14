@@ -207,7 +207,7 @@
 ## TypeScript 
 
 - [electron-react-typescript](https://github.com/Robinfr/electron-react-typescript) - Electron boilerplate with React, Redux, and TypeScript
-- [umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of ~137 TypeScript projects for functional, data driven development
+- [umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of ~138 TypeScript projects for functional, data driven development
 
 
 ## License
