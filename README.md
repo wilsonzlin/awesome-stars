@@ -61,6 +61,7 @@
 
 ## C++ 
 
+- [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [hat-trie](https://github.com/Tessil/hat-trie) - C++ implementation of a fast and memory efficient HAT-trie
 - [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing on GPUs
@@ -155,6 +156,7 @@
 
 ## Others 
 
+- [awesome-ocr](https://github.com/kba/awesome-ocr) - Links to awesome OCR projects
 - [low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer) - Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.
 - [nomicon](https://github.com/rust-lang/nomicon) - The Dark Arts of Advanced and Unsafe Rust Programming
 - [read-react-source-code](https://github.com/numbbbbb/read-react-source-code) - Record what I learn after reading React source code
