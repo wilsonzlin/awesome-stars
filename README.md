@@ -60,6 +60,7 @@
 
 ## C++ 
 
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [flann](https://github.com/mariusmuja/flann) - Fast Library for Approximate Nearest Neighbors
 - [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
