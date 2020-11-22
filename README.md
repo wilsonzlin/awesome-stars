@@ -60,6 +60,7 @@
 
 ## C++ 
 
+- [klox](https://github.com/dkopko/klox) - An interpreter
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [flann](https://github.com/mariusmuja/flann) - Fast Library for Approximate Nearest Neighbors
 - [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
