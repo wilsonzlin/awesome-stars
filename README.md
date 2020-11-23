@@ -26,6 +26,7 @@
   - [Python](#python)
   - [Rust](#rust)
   - [Shell](#shell)
+  - [Swift](#swift)
   - [TypeScript](#typescript)
 
 ## Batchfile 
@@ -207,6 +208,10 @@
 - [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [zsh-fzy](https://github.com/aperezdc/zsh-fzy) - Use the fzy fuzzy-finder in Zsh
 - [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
+
+## Swift 
+
+- [stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 
 ## TypeScript 
 
