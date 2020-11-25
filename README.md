@@ -8,7 +8,6 @@
   - [Batchfile](#batchfile)
   - [C](#c)
   - [C++](#c++)
-  - [CSS](#css)
   - [CoffeeScript](#coffeescript)
   - [D](#d)
   - [Dart](#dart)
@@ -25,6 +24,7 @@
   - [Perl](#perl)
   - [Python](#python)
   - [Rust](#rust)
+  - [SCSS](#scss)
   - [Shell](#shell)
   - [Swift](#swift)
   - [TypeScript](#typescript)
@@ -78,10 +78,6 @@
 - [emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [pdqsort](https://github.com/orlp/pdqsort) - Pattern-defeating quicksort.
 - [uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
-
-## CSS 
-
-- [include-media](https://github.com/eduardoboucas/include-media) - 📐 Simple, elegant and maintainable media queries in Sass
 
 ## CoffeeScript 
 
@@ -201,6 +197,10 @@
 - [aho-corasick](https://github.com/BurntSushi/aho-corasick) - A fast implementation of Aho-Corasick in Rust.
 - [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+
+## SCSS 
+
+- [include-media](https://github.com/eduardoboucas/include-media) - 📐 Simple, elegant and maintainable media queries in Sass
 
 ## Shell 
 
