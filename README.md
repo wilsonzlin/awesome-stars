@@ -61,6 +61,7 @@
 
 ## C++ 
 
+- [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [klox](https://github.com/dkopko/klox) - An interpreter
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [flann](https://github.com/mariusmuja/flann) - Fast Library for Approximate Nearest Neighbors
