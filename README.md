@@ -9,9 +9,7 @@
   - [C](#c)
   - [C++](#c++)
   - [CoffeeScript](#coffeescript)
-  - [D](#d)
   - [Dart](#dart)
-  - [Dockerfile](#dockerfile)
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -85,17 +83,9 @@
 - [vibrant.js](https://github.com/jariz/vibrant.js) - Extract prominent colors from an image. JS port of Android's Palette.
 - [zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation
 
-## D 
-
-- [onedrive](https://github.com/skilion/onedrive) - Free Client for OneDrive on Linux
-
 ## Dart 
 
 - [go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples) - Calling Go Functions from Other Languages using C Shared Libraries
-
-## Dockerfile 
-
-- [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
 ## Go 
 
@@ -205,8 +195,6 @@
 
 ## Shell 
 
-- [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
-- [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [zsh-fzy](https://github.com/aperezdc/zsh-fzy) - Use the fzy fuzzy-finder in Zsh
 - [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 
@@ -216,7 +204,6 @@
 
 ## TypeScript 
 
-- [typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [electron-react-typescript](https://github.com/Robinfr/electron-react-typescript) - Electron boilerplate with React, Redux, and TypeScript
 - [umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 140+ TypeScript projects for functional, data driven development
 
