@@ -172,7 +172,7 @@
 ## Python 
 
 - [punctuator2](https://github.com/ottokart/punctuator2) - A bidirectional recurrent neural network model with attention mechanism for restoring missing punctuation in unsegmented text
-- [peru](https://github.com/buildinspace/peru) - a package manager for including other people's code in your projects
+- [peru](https://github.com/buildinspace/peru) - a generic package manager, for including other people's code in your projects
 - [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [dotfiles](https://github.com/khllkcm/dotfiles) - My dotfiles
 - [powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
