@@ -127,7 +127,7 @@
 - [beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
 - [UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
 - [parse5](https://github.com/inikulin/parse5) - HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.
-- [svgo](https://github.com/svg/svgo) - :tiger: Node.js tool for optimizing SVG files
+- [svgo](https://github.com/svg/svgo) - :gear: Node.js tool for optimizing SVG files
 - [five](https://github.com/jackdclark/five) - Gives you five
 - [marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [webidl2.js](https://github.com/w3c/webidl2.js) - WebIDL parser
@@ -138,6 +138,7 @@
 
 ## Jupyter Notebook 
 
+- [natural-language-youtube-search](https://github.com/haltakov/natural-language-youtube-search) - Search inside YouTube videos using natural language
 - [keras-oneshot](https://github.com/sorenbouma/keras-oneshot) - koch et al, Siamese Networks for one-shot learning, (mostly) reimplimented in keras
 
 ## Lua 
