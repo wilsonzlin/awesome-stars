@@ -66,7 +66,7 @@
 
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [dkopko/klox](https://github.com/dkopko/klox) - An interpreter
-- [mariusmuja/flann](https://github.com/mariusmuja/flann) - Fast Library for Approximate Nearest Neighbors
+- [flann-lib/flann](https://github.com/flann-lib/flann) - Fast Library for Approximate Nearest Neighbors
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [Tessil/hat-trie](https://github.com/Tessil/hat-trie) - C++ implementation of a fast and memory efficient HAT-trie
