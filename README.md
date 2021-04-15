@@ -10,7 +10,6 @@
   - [C#](#c#)
   - [C++](#c++)
   - [CoffeeScript](#coffeescript)
-  - [Dart](#dart)
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -86,10 +85,6 @@
 
 - [jariz/vibrant.js](https://github.com/jariz/vibrant.js) - Extract prominent colors from an image. JS port of Android's Palette.
 - [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation
-
-## Dart 
-
-- [vladimirvivien/go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples) - Calling Go Functions from Other Languages using C Shared Libraries
 
 ## Go 
 
@@ -174,6 +169,7 @@
 
 - [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO) - Write interactive web app in script way.
 - [ottokart/punctuator2](https://github.com/ottokart/punctuator2) - A bidirectional recurrent neural network model with attention mechanism for restoring missing punctuation in unsegmented text
+- [vladimirvivien/go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples) - Calling Go Functions from Other Languages using C Shared Libraries
 - [buildinspace/peru](https://github.com/buildinspace/peru) - a generic package manager, for including other people's code in your projects
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [khllkcm/dotfiles](https://github.com/khllkcm/dotfiles) - My dotfiles
