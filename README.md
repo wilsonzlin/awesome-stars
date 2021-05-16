@@ -21,6 +21,7 @@
   - [PHP](#php)
   - [Perl](#perl)
   - [Python](#python)
+  - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
   - [Shell](#shell)
@@ -175,6 +176,10 @@
 - [khllkcm/dotfiles](https://github.com/khllkcm/dotfiles) - My dotfiles
 - [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
 - [mikepound/mazesolving](https://github.com/mikepound/mazesolving) - A variety of algorithms to solve mazes from an input image
+
+## Ruby 
+
+- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 
 ## Rust 
 
