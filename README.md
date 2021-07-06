@@ -7,7 +7,6 @@
 
   - [Batchfile](#batchfile)
   - [C](#c)
-  - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
   - [CoffeeScript](#coffeescript)
@@ -59,10 +58,6 @@
 - [mikejsavage/lua-bcrypt](https://github.com/mikejsavage/lua-bcrypt) - A bcrypt library for Lua
 - [openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers
 - [starwing/luautf8](https://github.com/starwing/luautf8) - a utf-8 support module for Lua and LuaJIT.
-
-## C# # 
-
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 
 ## C++ 
 
