@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [Augeas](#augeas)
   - [Batchfile](#batchfile)
   - [C](#c)
   - [C++](#c++)
@@ -27,6 +28,10 @@
   - [Shell](#shell)
   - [Swift](#swift)
   - [TypeScript](#typescript)
+
+## Augeas 
+
+- [hercules-team/augeas](https://github.com/hercules-team/augeas) - A configuration editing tool and API
 
 ## Batchfile 
 
