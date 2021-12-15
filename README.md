@@ -55,7 +55,6 @@
 - [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [attractivechaos/klib](https://github.com/attractivechaos/klib) - A standalone and lightweight C library
 - [IgnorantGuru/spacefm](https://github.com/IgnorantGuru/spacefm) - SpaceFM File Manager
-- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 - [luaposix/luaposix](https://github.com/luaposix/luaposix) - Lua bindings for POSIX APIs
 - [fab13n/checks](https://github.com/fab13n/checks) - luarock for SierraWireless "checks" argument checking library, otherwise available at https://github.com/SierraWireless/luasched
 - [LuaJIT/LuaJIT](https://github.com/LuaJIT/LuaJIT) - Mirror of the LuaJIT git repository
