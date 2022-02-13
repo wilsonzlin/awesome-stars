@@ -183,6 +183,7 @@
 
 ## Rust 
 
+- [zombodb/pgx](https://github.com/zombodb/pgx) - Build Postgres Extensions with Rust!
 - [xacrimon/dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust.
 - [doctorn/micro-mitten](https://github.com/doctorn/micro-mitten) - You might not need your garbage collector
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
