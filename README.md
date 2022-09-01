@@ -29,6 +29,7 @@
 - [Shell](#shell)
 - [Swift](#swift)
 - [TypeScript](#typescript)
+- [Wren](#wren)
 
 ## Augeas 
 
@@ -54,7 +55,6 @@
 - [cloudflare/cloudflare-workers-wasm-demo](https://github.com/cloudflare/cloudflare-workers-wasm-demo) - 
 - [RedisBloom/RedisBloom](https://github.com/RedisBloom/RedisBloom) - Probabilistic Datatypes Module for Redis
 - [raptorjit/raptorjit](https://github.com/raptorjit/raptorjit) - RaptorJIT: A dynamic language for system programming (LuaJIT fork)
-- [wren-lang/wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
 - [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [attractivechaos/klib](https://github.com/attractivechaos/klib) - A standalone and lightweight C library
 - [IgnorantGuru/spacefm](https://github.com/IgnorantGuru/spacefm) - SpaceFM File Manager
@@ -228,6 +228,10 @@
 
 - [Robinfr/electron-react-typescript](https://github.com/Robinfr/electron-react-typescript) - Electron boilerplate with React, Redux, and TypeScript
 - [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 167+ TypeScript projects for functional, data driven development
+
+## Wren 
+
+- [wren-lang/wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
 
 
 ## License
