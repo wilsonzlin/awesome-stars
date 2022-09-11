@@ -107,6 +107,7 @@
 
 ## Java 
 
+- [aiven/prometheus-exporter-plugin-for-opensearch](https://github.com/aiven/prometheus-exporter-plugin-for-opensearch) - Prometheus exporter plugin for OpenSearch
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. https://vespa.ai
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-15 Parser and Abstract Syntax Tree for Java, including preview features to Java 13
