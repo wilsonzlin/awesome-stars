@@ -141,6 +141,7 @@
 
 ## Jupyter Notebook 
 
+- [openai/whisper](https://github.com/openai/whisper) - 
 - [haltakov/natural-language-youtube-search](https://github.com/haltakov/natural-language-youtube-search) - Search inside YouTube videos using natural language
 - [sorenbouma/keras-oneshot](https://github.com/sorenbouma/keras-oneshot) - koch et al, Siamese Networks for one-shot learning, (mostly) reimplimented in keras
 
@@ -231,7 +232,7 @@
 ## TypeScript 
 
 - [Robinfr/electron-react-typescript](https://github.com/Robinfr/electron-react-typescript) - Electron boilerplate with React, Redux, and TypeScript
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 167+ TypeScript projects for functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 168+ TypeScript projects for functional, data driven development
 
 ## Wren 
 
