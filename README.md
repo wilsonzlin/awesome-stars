@@ -99,6 +99,7 @@
 
 ## HTML 
 
+- [WICG/shared-element-transitions](https://github.com/WICG/shared-element-transitions) - 
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [inikulin/parse5](https://github.com/inikulin/parse5) - HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.
 
