@@ -94,6 +94,7 @@
 
 ## Go 
 
+- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [boz/kail](https://github.com/boz/kail) - kubernetes log viewer
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 
