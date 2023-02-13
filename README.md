@@ -182,6 +182,8 @@
 
 ## Python 
 
+- [RalfJung/lets-encrypt-tiny](https://github.com/RalfJung/lets-encrypt-tiny) - A tiny client for Let's Encrypt
+- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [daveshap/RecursiveSummarizer](https://github.com/daveshap/RecursiveSummarizer) - 
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
