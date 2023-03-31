@@ -94,6 +94,7 @@
 
 ## Go 
 
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [boz/kail](https://github.com/boz/kail) - kubernetes log viewer
