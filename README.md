@@ -215,7 +215,7 @@
 - [bikeshedder/deadpool](https://github.com/bikeshedder/deadpool) - Dead simple pool implementation for rust with async-await
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [tcdi/plrust](https://github.com/tcdi/plrust) - A Rust procedural language handler for PostgreSQL
-- [tcdi/pgx](https://github.com/tcdi/pgx) - Build Postgres Extensions with Rust!
+- [tcdi/pgrx](https://github.com/tcdi/pgrx) - Build Postgres Extensions with Rust!
 - [xacrimon/dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust.
 - [doctorn/micro-mitten](https://github.com/doctorn/micro-mitten) - You might not need your garbage collector
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
