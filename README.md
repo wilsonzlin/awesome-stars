@@ -210,6 +210,7 @@
 
 ## Rust 
 
+- [Amanieu/intrusive-rs](https://github.com/Amanieu/intrusive-rs) - Intrusive collections for Rust
 - [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.
 - [orlp/glidesort](https://github.com/orlp/glidesort) - A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm.
 - [bikeshedder/deadpool](https://github.com/bikeshedder/deadpool) - Dead simple pool implementation for rust with async-await
