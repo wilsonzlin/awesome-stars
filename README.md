@@ -187,6 +187,7 @@
 
 ## Python 
 
+- [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
 - [RalfJung/lets-encrypt-tiny](https://github.com/RalfJung/lets-encrypt-tiny) - A tiny client for Let's Encrypt
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
