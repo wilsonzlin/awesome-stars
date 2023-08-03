@@ -136,7 +136,7 @@
 - [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
 - [jackdclark/five](https://github.com/jackdclark/five) - Gives you five
 - [w3c/webidl2.js](https://github.com/w3c/webidl2.js) - WebIDL parser
-- [segmentio/nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
+- [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
 - [rjanja/desktop-capture](https://github.com/rjanja/desktop-capture) - Screenshot and screencasting tools for Cinnamon.
 - [mathiasbynens/luamin](https://github.com/mathiasbynens/luamin) - A Lua minifier written in JavaScript
 - [fstirlitz/luaparse](https://github.com/fstirlitz/luaparse) - A Lua parser written in JavaScript
