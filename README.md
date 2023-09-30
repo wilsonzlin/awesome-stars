@@ -46,7 +46,7 @@
 - [spdk/spdk](https://github.com/spdk/spdk) - Storage Performance Development Kit
 - [fancycode/MemoryModule](https://github.com/fancycode/MemoryModule) - Library to load a DLL from memory.
 - [mptre/yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
-- [RoaringBitmap/CRoaring](https://github.com/RoaringBitmap/CRoaring) - Roaring bitmaps in C (and C++), with SIMD (AVX2, AVX-512 and NEON) optimizations: used by Apache Doris and StarRocks
+- [RoaringBitmap/CRoaring](https://github.com/RoaringBitmap/CRoaring) - Roaring bitmaps in C (and C++), with SIMD (AVX2, AVX-512 and NEON) optimizations: used by Apache Doris, ClickHouse, and StarRocks
 - [jvirkki/libbloom](https://github.com/jvirkki/libbloom) - A simple and small bloom filter implementation in plain C.
 - [NuxiNL/cloudabi](https://github.com/NuxiNL/cloudabi) - Definitions for the CloudABI data types and system calls
 - [google/wuffs](https://github.com/google/wuffs) - Wrangling Untrusted File Formats Safely
