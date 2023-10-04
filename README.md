@@ -120,7 +120,7 @@
 
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [simonhaenisch/prettier-plugin-organize-imports](https://github.com/simonhaenisch/prettier-plugin-organize-imports) - Make Prettier organize your imports using the TypeScript language service API.
-- [just-js/just](https://github.com/just-js/just) - a very small v8 javascript runtime for linux only
+- [just-js/just](https://github.com/just-js/just) - a very small v8 javascript runtime
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 - [sindresorhus/file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer/Uint8Array/ArrayBuffer
 - [shapesecurity/unminify](https://github.com/shapesecurity/unminify) - reverse many of the transformations applied by minifiers and naïve obfuscators
