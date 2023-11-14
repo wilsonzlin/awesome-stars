@@ -190,6 +190,7 @@
 
 ## Python 
 
+- [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
 - [RalfJung/lets-encrypt-tiny](https://github.com/RalfJung/lets-encrypt-tiny) - A tiny client for Let's Encrypt
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
