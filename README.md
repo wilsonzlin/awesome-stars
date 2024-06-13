@@ -70,6 +70,7 @@
 
 ## C++ 
 
+- [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [dkopko/klox](https://github.com/dkopko/klox) - An interpreter
 - [flann-lib/flann](https://github.com/flann-lib/flann) - Fast Library for Approximate Nearest Neighbors
@@ -141,7 +142,6 @@
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
 - [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
 - [jackdclark/five](https://github.com/jackdclark/five) - Gives you five
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [w3c/webidl2.js](https://github.com/w3c/webidl2.js) - WebIDL parser
 - [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
 - [rjanja/desktop-capture](https://github.com/rjanja/desktop-capture) - Screenshot and screencasting tools for Cinnamon.
@@ -261,6 +261,7 @@
 - [Robinfr/electron-react-typescript](https://github.com/Robinfr/electron-react-typescript) - Electron boilerplate with React, Redux, and TypeScript
 - [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 192 TypeScript projects (and 160+ examples) for general purpose, functional, data driven development
 - [inikulin/parse5](https://github.com/inikulin/parse5) - HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 
 ## Wren 
 
